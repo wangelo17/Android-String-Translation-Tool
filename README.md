@@ -2,6 +2,9 @@
 
 **Android 多语言本地化自动化翻译工具** —— 专为 Android 项目打造的 **Excel 驱动** 一键批量翻译神器
 首次启动界面，选中工程根目录和翻译的excel文件后，下次打开自动记忆
+<img width="182" height="179" alt="image" src="https://github.com/user-attachments/assets/f28e1356-3f16-42c1-a0b2-1a8df08c43e9" />
+
+
 <img width="1626" height="1071" alt="image" src="https://github.com/user-attachments/assets/da5a3264-0ac4-4cc9-8ecb-56f42b21992d" />
 
 <img width="1626" height="1071" alt="image" src="https://github.com/user-attachments/assets/1dc8ccea-42a7-4c1d-b951-04da8bc57309" />
