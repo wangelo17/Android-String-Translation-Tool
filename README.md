@@ -9,7 +9,7 @@
 <img width="1626" height="1071" alt="image" src="https://github.com/user-attachments/assets/0e4a5b96-4be1-4ddb-8b04-32a9ae7699b5" />
 
 
-<img width="1626" height="1071" alt="image" src="https://github.com/user-attachments/assets/0bd9f911-e430-40c9-a8c3-bce38c1b4c45" />
+<img width="1626" height="1071" alt="image" src="https://github.com/user-attachments/assets/0c2d722b-d753-4bc9-b025-c1aaa074722c" />
 
 
 参照的翻译excel样式
